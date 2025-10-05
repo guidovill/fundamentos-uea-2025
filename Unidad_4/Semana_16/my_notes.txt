@@ -1,0 +1,4 @@
+Nota 1: Repasar lectura y escritura de archivos en Python.
+Nota 2: Practicar readline() y diferenciarlo de read().
+Nota 3: Subir el código al repositorio de GitHub de la asignatura.
+Nota 4 (opcional): Usar encoding='utf-8' para tildes y eñes.
